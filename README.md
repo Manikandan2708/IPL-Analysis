@@ -9,7 +9,7 @@ I've used two datasets:
 
 # Created Dynamic Dashboard to identify the following insights
 ![image](https://github.com/Manikandan2708/IPL-Analysis/blob/main/IPL%20Analysis.png)
-- The IPL winner and Runner for each season.
+- The IPL winner for each season.
 - The recipients of the Orange Cap (leading run-scorer) and Purple Cap (leading wicket-taker) for each season.
 - Total number of 4's & 6's for each season.
 - Included a user-friendly slicer that allows selection of specific batsmen or bowlers for in-depth analysis.

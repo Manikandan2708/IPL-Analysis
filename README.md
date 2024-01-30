@@ -23,5 +23,5 @@ I've used two datasets:
 ![image](https://github.com/Manikandan2708/IPL-Analysis/blob/main/Fours%20Decomposition.png)
 ![image](https://github.com/Manikandan2708/IPL-Analysis/blob/main/Sixes%20Decomposition.png)
 - Total runs scored by batsmen in IPL which can be drilled down to each season, each team and each players.
-- Total Sixes by batsmen in IPL which can be drilled down to each season, each team and each players.
 - Total Fours by batsmen in IPL which can be drilled down to each season, each team and each players.
+- Total Sixes by batsmen in IPL which can be drilled down to each season, each team and each players.
